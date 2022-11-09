@@ -4,3 +4,4 @@ Olá, me chamo Rayssa e curso a matéria de Design e Desenvolvimento de Banco de
 Git e GitHub; 
 Implementação de Modelos Lógicos no SGBD;
 PostgreSQL e MariaBD; 
+$SHSH
